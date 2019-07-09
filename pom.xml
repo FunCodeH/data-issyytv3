@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.gd</groupId>
-    <artifactId>data-chx</artifactId>
+    <artifactId>data-issyytv3</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>data-chx</name>
-    <description>gd data chx</description>
+    <name>data-issyytv3</name>
+    <description>gd data issyytv3</description>
 
     <properties>
         <java.version>1.8</java.version>
